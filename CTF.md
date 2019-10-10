@@ -2,8 +2,6 @@
 
 **所有内容与链接仅供参考**
 
-[TOC]
-
 ----
 
 ## 工具网站
@@ -20,14 +18,12 @@
 ## 教程网站
 
 + [MDN](https://developer.mozilla.org/zh-CN/docs/Web)
-+ []()
-
 
 ----
 
 ## 相关博客
 
-+ [CTF如何入门](https://blog.csdn.net/hubuguia/article/details/7039)
++ [CTF如何入门](https://blog.csdn.net/hubuguia/article/details/70399108)
 + [CTF线下攻防赛总结](https://blog.csdn.net/wy_97/article/details/78148705)
 + [CTF入门](https://blog.csdn.net/chaoyueziji123/article/details/48790331)
 + [CTF学习规划————1、如何入门CTF](https://blog.csdn.net/Fly_hps/article/details/79783253)

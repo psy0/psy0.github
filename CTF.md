@@ -23,6 +23,7 @@
 
 ## 相关博客
 
++ [CTF Wiki Learning Resources](https://ctf-wiki.github.io/ctf-wiki/introduction/resources-zh/)
 + [CTF如何入门](https://blog.csdn.net/hubuguia/article/details/70399108)
 + [CTF线下攻防赛总结](https://blog.csdn.net/wy_97/article/details/78148705)
 + [CTF入门](https://blog.csdn.net/chaoyueziji123/article/details/48790331)
